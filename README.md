@@ -69,6 +69,6 @@ arXiv's [API terms](https://info.arxiv.org/help/api/tou.html) specify one reques
 See [CONTRIBUTING.md](CONTRIBUTING.md). Bug reports and focused pull requests are welcome. Please describe your browser version and reproduction steps, and remove personal or confidential information.
 
 ## License
-Original MathaCarta code is under the [MIT License](LICENSE), copyright 2026 Avery Carr. Commercial reuse is permitted subject to its terms. Bundled third-party files retain their own licenses; see [NOTICE.md](NOTICE.md).
+Original MathaCarta code is copyright © 2026 Avery Carr. All rights reserved. See LICENSE for terms. Third-party components retain their respective licenses.
 
 MathaCarta is an independent project, not endorsed by arXiv or Mozilla.
