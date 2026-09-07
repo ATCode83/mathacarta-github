@@ -1,13 +1,13 @@
-# Feedback and Contributions
+# Contributing
 
-Bug reports and feature suggestions are welcome through GitHub Issues.
-Do not include confidential documents or personal information.
+Bug reports, feature suggestions, and pull requests are welcome.
 
-External code contributions are not currently accepted. Please contact
-the maintainer before submitting a pull request so contribution terms
-can be agreed upon.
+Before submitting code:
 
-Original MathaCarta code is all rights reserved. See LICENSE.
-Third-party components retain their respective licenses and notices.
+1. Run `npm test`.
+2. Test the affected webpage and PDF-reader behavior in Chrome.
+3. Preserve third-party license notices.
+4. Describe the user-visible change and validation performed.
 
-Please keep discussions respectful and constructive.
+Contributions are accepted under the repository's MIT License.
+Please do not submit confidential documents, credentials, or private data.
