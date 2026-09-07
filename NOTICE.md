@@ -1,9 +1,36 @@
-MathaCarta currently uses the arXiv public API for article search. It does not
-bundle Mathlib data or contact a formalization-search service.
+# Notices and Third-Party Components
 
-The PDF reader bundles Mozilla PDF.js 6.3.289, licensed under Apache-2.0.
-Copyright Mozilla Foundation and contributors. Its license is included at
-extension/vendor/pdfjs/LICENSE; supporting font/assets retain their bundled licenses.
+## Original MathaCarta Code
+
+Copyright (c) 2026 Avery Carr. All rights reserved.
+
+Original MathaCarta code and documentation are subject to the
+root LICENSE file. This notice grants no additional permissions.
+
+## PDF.js
+
+MathaCarta bundles Mozilla PDF.js version 6.3.289.
+
+Copyright Mozilla Foundation and contributors.
+Licensed under the Apache License, Version 2.0.
+
 Source: https://github.com/mozilla/pdf.js
+License: extension/vendor/pdfjs/LICENSE
 
-The root MIT LICENSE applies to original MathaCarta code, not to separately licensed vendor components. Retain the entire extension/vendor/pdfjs directory's license files when redistributing. Bundled font, CMap, and WebAssembly components carry additional notices in their respective subdirectories.
+Supporting fonts, CMaps, WebAssembly components, and other assets
+retain their respective licenses and copyright notices within
+extension/vendor/pdfjs/.
+
+Preserve all applicable third-party license and notice files when
+redistributing those components. MathaCarta's licensing restrictions
+do not replace or restrict rights granted by third-party licenses.
+
+## arXiv
+
+MathaCarta uses the arXiv API to retrieve article metadata and links.
+API access remains subject to arXiv's applicable terms.
+MathaCarta does not claim ownership of third-party article content
+or metadata.
+
+MathaCarta is an independent project and is not endorsed by or
+affiliated with arXiv or the Mozilla Foundation.
