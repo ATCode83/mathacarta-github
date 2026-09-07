@@ -1,0 +1,16 @@
+{
+  "name": "mathacarta",
+  "version": "0.10.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/*.test.js",
+    "package": "python scripts/package.py"
+  },
+  "description": "Highlight-to-search arXiv browser extension with an included PDF reader.",
+  "license": "MIT",
+  "author": "Avery Carr",
+  "engines": {
+    "node": ">=22"
+  }
+}
